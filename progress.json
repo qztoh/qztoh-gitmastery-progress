@@ -99,5 +99,14 @@
       "Great work creating a fork with Github!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "fetch-and-pull",
+    "started_at": 1787105809.440016,
+    "completed_at": 1787105817.059063,
+    "comments": [
+      "You did not pull Alice's changes to your own main branch!"
+    ],
+    "status": "Incomplete"
   }
 ]
