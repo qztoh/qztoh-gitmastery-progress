@@ -108,5 +108,14 @@
       "You did not pull Alice's changes to your own main branch!"
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "view-commits",
+    "started_at": 1787208267.815211,
+    "completed_at": 1787208269.37264,
+    "comments": [
+      "Great work in viewing and understanding the diff of a specific commit!"
+    ],
+    "status": "Completed"
   }
 ]
